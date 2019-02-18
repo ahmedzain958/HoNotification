@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "251663073998",
+    "firebase_url": "https://honotification-61e88.firebaseio.com",
+    "project_id": "honotification-61e88",
+    "storage_bucket": "honotification-61e88.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:251663073998:android:19407107cfc74a56",
+        "android_client_info": {
+          "package_name": "com.hogp.honotification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "251663073998-an7pps4dq01tlcbeg493hh5s6p369mpv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hogp.honotification",
+            "certificate_hash": "6e4648c5e008e835fabc6679f861121e18abeaf6"
+          }
+        },
+        {
+          "client_id": "251663073998-i6sjsjaun3ldvu60vleejbjcvij3sduo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQBLjOl4NCEn4Hdy3KdfQuWUi5BldgYVY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "251663073998-i6sjsjaun3ldvu60vleejbjcvij3sduo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
